@@ -16,8 +16,15 @@ public:
     }
     int maxSatisfaction(vector<int>& sat) {
         n=sat.size();
-        dp.resize(n,vector<int>(n+1,-1));
+        dp.resize(n+1,vector<int>(n+2,0));
         sort(sat.begin(),sat.end());
-        return solve(sat,0,1);
+        //return solve(sat,0,1);
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j<=n;j++){
+                int x=sat[i]*j+dp[i+1][j+1];
+                dp[i][j]=max(x,dp[i+1][j]);
+            }
+        }
+        return dp[0][1];
     }
 };
