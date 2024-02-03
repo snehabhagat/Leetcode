@@ -16,20 +16,20 @@ public:
         for (int i = 0; i < n; i++) {
             prefixSum.push_back(nums[i] + prefixSum[i]);
 
-            // ll a = k + nums[i];
-            // ll b = nums[i] - k;
+            ll a = k + nums[i];
+            ll b = nums[i] - k;
 
-            if (mp.find(k + nums[i]) != mp.end()) {
+            if (mp.find(a) != mp.end()) {
                //vector<int>temp = mp[k + nums[i]];
-                for(auto idx: mp[k + nums[i]]){
+                for(auto idx: mp[a]){
                     long long tem = prefixSum[i+1] - prefixSum[idx];
                     ans = max(ans, tem);
                 }
             }
-            if (mp.find(nums[i] - k) != mp.end()) {
+            if (mp.find(b) != mp.end()) {
 
                  //vector<int>temp = mp[nums[i] - k];
-                 for(auto idx: mp[nums[i] - k]){
+                 for(auto idx: mp[b]){
                     long long tem = prefixSum[i+1] - prefixSum[idx];
                     ans = max(ans, tem);
                  }
