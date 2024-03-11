@@ -25,11 +25,6 @@ public:
         return root;
     }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        solve(root,val);
-        if(!root){
-            TreeNode* newNode=new TreeNode(val);
-            return newNode;
-        }
-        return root;
+        return solve(root,val);
     }
 };
