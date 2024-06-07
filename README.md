@@ -9,15 +9,18 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/snehabhagat/Leetcode/tree/master/0344-reverse-string) |
+| [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 # Array
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 # Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 # Divide and Conquer
 |  |
@@ -48,3 +51,7 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
