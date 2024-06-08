@@ -14,12 +14,14 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 # Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 # Divide and Conquer
@@ -55,3 +57,11 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
