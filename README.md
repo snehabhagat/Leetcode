@@ -13,6 +13,7 @@
 # Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
@@ -22,6 +23,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
@@ -34,6 +36,7 @@
 # Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
