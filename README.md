@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/snehabhagat/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
@@ -71,6 +72,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/snehabhagat/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/snehabhagat/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Counting Sort
