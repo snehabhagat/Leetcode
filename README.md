@@ -13,6 +13,7 @@
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/snehabhagat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/snehabhagat/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -33,6 +34,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/snehabhagat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 # Sorting
 |  |
@@ -79,3 +81,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/snehabhagat/Leetcode/tree/master/0053-maximum-subarray) |
