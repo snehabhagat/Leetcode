@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/snehabhagat/Leetcode/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/snehabhagat/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehabhagat/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/snehabhagat/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +44,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
