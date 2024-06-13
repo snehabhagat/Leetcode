@@ -16,9 +16,6 @@ public:
                 ans=max(ans,height[left]*(right-left));
                 left++;
             }
-            else{
-                left++;
-            }
         }
         return ans;
     }
