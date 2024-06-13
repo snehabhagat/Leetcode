@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/snehabhagat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/snehabhagat/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/snehabhagat/Leetcode/tree/master/0344-reverse-string) |
@@ -15,6 +16,7 @@
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/snehabhagat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/snehabhagat/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/snehabhagat/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
@@ -74,6 +76,7 @@
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/snehabhagat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
