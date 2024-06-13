@@ -26,6 +26,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/snehabhagat/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
