@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/snehabhagat/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/snehabhagat/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
@@ -53,6 +54,7 @@
 | [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/snehabhagat/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/snehabhagat/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/snehabhagat/Leetcode/tree/master/0502-ipo) |
 # Bucket Sort
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehabhagat/Leetcode/tree/master/0011-container-with-most-water) |
+| [0502-ipo](https://github.com/snehabhagat/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
