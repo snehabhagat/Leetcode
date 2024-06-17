@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/snehabhagat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/snehabhagat/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/snehabhagat/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/snehabhagat/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/snehabhagat/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/snehabhagat/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -116,3 +117,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehabhagat/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/snehabhagat/Leetcode/tree/master/0643-maximum-average-subarray-i) |
