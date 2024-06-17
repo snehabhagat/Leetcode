@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/snehabhagat/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/snehabhagat/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/snehabhagat/Leetcode/tree/master/0344-reverse-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/snehabhagat/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 # String
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/snehabhagat/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/snehabhagat/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -43,6 +45,7 @@
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/snehabhagat/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/snehabhagat/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +62,7 @@
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/snehabhagat/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
