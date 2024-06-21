@@ -33,6 +33,7 @@
 | [0876-hand-of-straights](https://github.com/snehabhagat/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/snehabhagat/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/snehabhagat/Leetcode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/snehabhagat/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/snehabhagat/Leetcode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/snehabhagat/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/snehabhagat/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -121,3 +122,4 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/snehabhagat/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1138-grumpy-bookstore-owner](https://github.com/snehabhagat/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
