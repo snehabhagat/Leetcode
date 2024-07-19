@@ -205,6 +205,7 @@
 ## Array
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/snehabhagat/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/snehabhagat/Leetcode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/snehabhagat/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
