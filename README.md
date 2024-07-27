@@ -176,6 +176,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/snehabhagat/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/snehabhagat/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehabhagat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/snehabhagat/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/snehabhagat/Leetcode/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
