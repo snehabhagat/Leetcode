@@ -212,6 +212,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/snehabhagat/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/snehabhagat/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/snehabhagat/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2846-robot-collisions](https://github.com/snehabhagat/Leetcode/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Matrix
 |  |
 | ------- |
