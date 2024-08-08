@@ -206,11 +206,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/snehabhagat/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehabhagat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/snehabhagat/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
