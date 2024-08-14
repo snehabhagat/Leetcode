@@ -220,6 +220,7 @@
 | [0040-combination-sum-ii](https://github.com/snehabhagat/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehabhagat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -235,6 +236,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -296,10 +298,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehabhagat/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehabhagat/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
