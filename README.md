@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
+| [0890-lemonade-change](https://github.com/snehabhagat/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/snehabhagat/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehabhagat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Array
@@ -222,6 +223,7 @@
 | [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/snehabhagat/Leetcode/tree/master/0890-lemonade-change) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
