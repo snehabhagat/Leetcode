@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
+| [0624-maximum-distance-in-arrays](https://github.com/snehabhagat/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/snehabhagat/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/snehabhagat/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehabhagat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -221,6 +222,7 @@
 | [0040-combination-sum-ii](https://github.com/snehabhagat/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehabhagat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
+| [0624-maximum-distance-in-arrays](https://github.com/snehabhagat/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/snehabhagat/Leetcode/tree/master/0890-lemonade-change) |
