@@ -1,18 +1,21 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        set<long long> st;
-        st.insert(1);
-        int cnt=1;
+        set<long long> pq;
+        pq.insert(1);
+        int ans=0,cnt=0;
         while(cnt<n){
-            long long frst=*st.begin();
-            st.erase(st.begin());
-            st.insert(frst*2);
-            st.insert(frst*3);
-            st.insert(frst*5);
+            auto p=pq.begin();
+            int x=*p;
+            pq.erase(p);
             cnt++;
+            if(cnt==n){
+                ans=x;
+            }
+            pq.insert(x*1LL*2);
+            pq.insert(x*1LL*3);
+            pq.insert(x*1LL*5);
         }
-        int frst=*st.begin();
-        return frst;
+        return ans;
     }
 };
