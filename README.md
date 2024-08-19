@@ -320,6 +320,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/snehabhagat/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/snehabhagat/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/snehabhagat/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
@@ -330,6 +331,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehabhagat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/snehabhagat/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/snehabhagat/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/snehabhagat/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
 |  |
