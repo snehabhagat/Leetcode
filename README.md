@@ -229,6 +229,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/snehabhagat/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehabhagat/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -322,6 +323,7 @@
 | [0273-integer-to-english-words](https://github.com/snehabhagat/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/snehabhagat/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehabhagat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/snehabhagat/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/snehabhagat/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/snehabhagat/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Database
 |  |
@@ -367,4 +370,12 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/snehabhagat/Leetcode/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
