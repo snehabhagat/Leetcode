@@ -1,44 +1,28 @@
 class Solution {
 public:
-
-    int solve(int l , int r , vector < int > & boxes , int k , int dp[101][101][101]){
-       
-        if(l > r) return 0; 
-
-        int k_here = k; 
-        int l_here = l; 
-
-        if(dp[l][r][k_here] >= 0) return dp[l][r][k];  
-
-        while(l+1 <= r && boxes[l] == boxes[l+1]) {
-            k++; 
-            l++; 
+    int dp[101][101][101];
+    int solve(int i,int j,int k,vector<int> &boxes){
+        if(i>j){
+            return 0;
         }
-
-        int ans = (k+1)*(k+1) + solve(l+1 , r , boxes , 0 , dp); 
-
-        for(int m = l+1 ; m <=r ; m++){
-            if(boxes[l] == boxes[m]){
-
-                ans = max(ans , solve(m , r, boxes , k+1 , dp) + solve(l+1 , m-1 , boxes , 0 , dp)); 
-
-            }
+        int I=i,K=k;
+        if(dp[i][j][k]!=-1){
+            return dp[i][j][k];
         }
-
-        return dp[l_here][r][k_here] = ans; 
+        while(i<j && boxes[i]==boxes[i+1]){
+            i++;
+            k++;
+        }
+        int val=(k+1)*(k+1)+solve(i+1,j,0,boxes);
+        for(int m=i+1;m<=j;m++){
+            if(boxes[m]==boxes[i])
+                val=max(val,solve(i+1,m-1,0,boxes)+solve(m,j,k+1,boxes));
+        }
+        return dp[I][j][K]=val;
     }
     int removeBoxes(vector<int>& boxes) {
-
-
-        int dp[101][101][101]; 
-
-        memset(dp , -1 , sizeof(dp)); 
-
-
-        int n = boxes.size(); 
-        return solve(0 , n-1 , boxes , 0 , dp); 
-
-
-        
+        int n=boxes.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(0,n-1,0,boxes);
     }
 };
