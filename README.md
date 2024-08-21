@@ -223,6 +223,7 @@
 | [0040-combination-sum-ii](https://github.com/snehabhagat/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehabhagat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/snehabhagat/Leetcode/tree/master/0135-candy) |
+| [0546-remove-boxes](https://github.com/snehabhagat/Leetcode/tree/master/0546-remove-boxes) |
 | [0624-maximum-distance-in-arrays](https://github.com/snehabhagat/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/snehabhagat/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -334,6 +335,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehabhagat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/snehabhagat/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0546-remove-boxes](https://github.com/snehabhagat/Leetcode/tree/master/0546-remove-boxes) |
 | [0650-2-keys-keyboard](https://github.com/snehabhagat/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/snehabhagat/Leetcode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
@@ -380,4 +382,8 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/snehabhagat/Leetcode/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
