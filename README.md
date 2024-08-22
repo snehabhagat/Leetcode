@@ -386,4 +386,8 @@
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/snehabhagat/Leetcode/tree/master/0546-remove-boxes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/snehabhagat/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
