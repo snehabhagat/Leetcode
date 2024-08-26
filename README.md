@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/snehabhagat/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/snehabhagat/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/snehabhagat/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/snehabhagat/Leetcode/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/snehabhagat/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Design
