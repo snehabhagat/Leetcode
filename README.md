@@ -167,6 +167,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/snehabhagat/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/snehabhagat/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/snehabhagat/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -181,6 +182,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/snehabhagat/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/snehabhagat/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/snehabhagat/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -193,6 +195,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/snehabhagat/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/snehabhagat/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/snehabhagat/Leetcode/tree/master/2035-count-sub-islands) |
@@ -273,6 +276,7 @@
 | [0726-number-of-atoms](https://github.com/snehabhagat/Leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/snehabhagat/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/snehabhagat/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Matrix
