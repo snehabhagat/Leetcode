@@ -186,6 +186,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/snehabhagat/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/snehabhagat/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/snehabhagat/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
@@ -300,6 +301,7 @@
 | [0264-ugly-number-ii](https://github.com/snehabhagat/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/snehabhagat/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
+| [2803-modify-graph-edge-weights](https://github.com/snehabhagat/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [2803-modify-graph-edge-weights](https://github.com/snehabhagat/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
 |  |
