@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/snehabhagat/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/snehabhagat/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/snehabhagat/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/snehabhagat/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -245,6 +246,7 @@
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/snehabhagat/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/snehabhagat/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/snehabhagat/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/snehabhagat/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/snehabhagat/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -301,6 +303,7 @@
 | [0264-ugly-number-ii](https://github.com/snehabhagat/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/snehabhagat/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/snehabhagat/Leetcode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/snehabhagat/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/snehabhagat/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
@@ -321,6 +324,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/snehabhagat/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/snehabhagat/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/snehabhagat/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sliding Window
