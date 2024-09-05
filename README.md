@@ -256,6 +256,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/snehabhagat/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/snehabhagat/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/snehabhagat/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2155-find-missing-observations](https://github.com/snehabhagat/Leetcode/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/snehabhagat/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/snehabhagat/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/snehabhagat/Leetcode/tree/master/2846-robot-collisions) |
@@ -275,6 +276,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/snehabhagat/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/snehabhagat/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/snehabhagat/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/snehabhagat/Leetcode/tree/master/2155-find-missing-observations) |
 | [2846-robot-collisions](https://github.com/snehabhagat/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -357,6 +359,7 @@
 | [0650-2-keys-keyboard](https://github.com/snehabhagat/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/snehabhagat/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/snehabhagat/Leetcode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/snehabhagat/Leetcode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
